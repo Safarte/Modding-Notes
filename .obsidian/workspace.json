@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "cb9e98a93bf08eab",
+    "type": "split",
+    "children": [
+      {
+        "id": "616ad73d2e5a6e6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438c01666766d847",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Mods.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "758cdef4fe3a0b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mod Ideas/Life Support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8660865bacd00af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Recipes.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ee20edfc2dcdfd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "357d4d478e2c3da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49fa7ddb41d8a1b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "369d75ab6559423f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b304a9a52ba2afd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d873f81c2dffc70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "307dcf7a7e876ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ad393e1249471d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mod Ideas/Life Support.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4120cd21bea630b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mod Ideas/Life Support.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f55c9ff91eef9842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97335e42400635f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mod Ideas/Life Support.md"
+              }
+            }
+          },
+          {
+            "id": "229bd2c2575aa12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "758cdef4fe3a0b2c",
+  "lastOpenFiles": [
+    "Excalidraw/Recipes.excalidraw.md",
+    "Mod Ideas/Life Support.md",
+    "Excalidraw",
+    "UI/Colors.md",
+    "TODO.md",
+    "Mods.md",
+    "Daily Notes/2023/August/2023-08-26.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2023/August",
+    "Daily Notes/2023",
+    "Daily Notes",
+    "Templates",
+    "UI",
+    "Mod Ideas"
+  ]
+}
