@@ -3,8 +3,6 @@
 - Water
 - Oxygen
 - Waste
-- Waste Water
-- CO2
 ## Recipes
 ![[Recipes.excalidraw]]
 ## Parts
@@ -16,7 +14,6 @@ These converters lengthen the supplies but do not make the pods self-reliant.
 - Food packs
 - O2 tanks
 - Water tanks
-- "Waste products" tanks
 #### Converters
 - Greenhouses
 	- Station part
@@ -32,3 +29,13 @@ EVA suits: small amount of Water and O2
 Trip planner with predicted supplies durations
 #### Flight & Tracking Station
 Life support monitoring screen, shows supplies duration for all crafts & Kerbals in EVA
+
+## Modules
+#### Module_LifeSupportSystem
+Toggle CO2 Scrubber
+Toggle Water Recycler
+Data:
+- ScrubberEnabled
+- WaterRecyclerEnabled
+- ScrubberO2ReductionRate
+- RecyclerWaterReductionRate
